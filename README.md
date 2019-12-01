@@ -6,7 +6,7 @@ Projeto base de exemplo utilizando Capybara + Site_prism + Cucumber + Rspec
 - [Capybara](https://github.com/teamcapybara/capybara/ "Capybara")
 - [Cucumber](https://cucumber.io/docs/tools/ruby/ "Cucumber")
 - [Site_prism](https://github.com/site-prism/site_prism "Site_prism")
-- [Rspec] (https://rspec.info/ "Rspec")
+- [Rspec](https://rspec.info/ "Rspec")
 
 ## Estrutura de pastas
 
