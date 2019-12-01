@@ -1,2 +1,11 @@
-# capybara-google-search
-Projeto base de capybara com um busca no google (Capybara + Site_prism + cucumber)
+# Capybara + Site_prism + Cucumber + Rspec
+Projeto base de exemplo utilizando Capybara + Site_prism + Cucumber + Rspec
+
+
+
+
+
+
+## Instalações
+
+Definir chromedriver no path da máquina
